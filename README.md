@@ -23,27 +23,9 @@ This project allows users to explore different house designs and get an idea bas
 * CSS3
 
 ---
-
-## 📂 Project Structure
-
-```
-project/
-│── index.html
-```
-
 ---
 
-## ▶️ How to Run
 
-1. Download or clone the repository
-2. Open the file:
-
-   ```
-   index.html
-   ```
-3. Run it in any web browser (Chrome, Edge, etc.)
-
----
 
 ## 💡 Future Improvements
 
@@ -65,16 +47,12 @@ This project is created for learning and practicing:
 
 ---
 
-## 📸 Preview
 
-(Add screenshots here after uploading your project)
-
----
 
 ## 👨‍💻 Author
 
-**Your Name**
-(B.Tech Student / Web Developer)
+**Kritish Acharya**
+(B.Tech CSE / Web Development)
 
 ---
 
