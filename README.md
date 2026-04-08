@@ -52,7 +52,7 @@ This project is created for learning and practicing:
 ## 👨‍💻 Author
 
 **Kritish Acharya**
-(B.Tech CSE / Web Development)
+(B.Tech CSE / Web Developer)
 
 ---
 
